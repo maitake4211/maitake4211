@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maitake4211)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="left">
   <a href="https://github.com/maitake4211/maitake4211/">
     <img src="https://komarev.com/ghpvc/?username=maitake4211" alt="maitake4211" />
